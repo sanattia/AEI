@@ -1,0 +1,22 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+
+        {% include 'header.html' %}
+
+<h1>Zasady</h1>
+
+<table class="table_main">
+    <th>Związki słów</th>
+    <th>Waga</th>
+    {% for grade in grades.items()|sort(attribute='1', reverse=True) %}
+        <tr>
+            <td>{{ grade[0]|join(', ') }}</td>
+            <td>{{ grade[1] }}</td>
+        </tr>
+    {% endfor %}
+</table>

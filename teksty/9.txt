@@ -1,0 +1,71 @@
+Przed przystąpieniem do prawnej analizy czynów polegających na
+stosowaniu mechanizmów hazardowych w grach komputerowych warto
+najpierw wyjaśnić na czym polegają inne niż system loot boxów mecha-
+nizmy hazardowe najczęściej spotykane w grach komputerowych.
+Pierwszy z nich potocznie nazywany skin gamblingiem zasadniczo ni-
+czym nie różni się od wirtualnych kasyn organizowanych za pośrednic-
+twem sieci Internet. Jedyna zauważalna odmienność polega na tym, że
+w internetowych kasynach konta użytkownika zasilane są prawdziwymi
+pieniędzmi, natomiast w przypadku portali oferujących usługi skin gam-
+blingowe konto użytkownika zasilane jest wirtualnymi przedmiotami, naj-
+częściej w postaci tzw. skinów, czyli elementów urozmaicających wygląd
+wyposażenia gracza. W zależności od używanej platformy skin gamblin-
+gowej stawkę zakładu stanowią bezpośrednio wirtualne dobra, lub są
+one konwertowane na ich równowartość wyrażaną w wybranej walucie
+(najczęściej USD), za pośrednictwem stosowanych przez platformę skin
+gamblingową algorytmów obliczających ich faktyczną wartość na pod-
+stawie danych pobieranych z serwisów oferujących usługi zorganizowa-
+nego obrotu wirtualnymi dobrami (przykładowo Steam marketplace).
+Konta użytkownika platformy skin gamblingowej zasilane są poprzez in-
+stalację odpowiedniej wtyczki do programu obsługującego platformę dys-
+trybucyjną gry, z której pochodzi wirtualne mienie mogące stanowić
+stawkę zakładu, która to wtyczka umożliwia przenoszenie wirtualnych
+dóbr z profilu użytkownika platformy dystrybucyjnej na profil użytkownika
+platformy skin gamblingowej.
+Sam proces uczestnictwa w skin gamblingu jest analogiczny jak
+w przypadku innych internetowych gier hazardowych. Na początku wy-
+biera się jedną spośród kilku dostępnych rodzajów gry takich jak ruletka,
+kości, poker, Black Jack, bingo, czy „jednoręki bandyta”, a następnie
+określa się stawkę która ma być przedmiotem zakładu. W zależności od
+wybranego rodzaju gry, w przypadku wygranej gracz uzyskuje wirtualny
+przedmiot będący stawką zakładu, lub zasilenie konta użytkownika o wir-
+tualne środki stanowiące umówiony iloczyn stawki wyrażonej w konkret-
+nej walucie. W przypadku przegranej użytkownik traci wirtualne mienie
+lub środki zasilające jego profil.
+Celem wyjaśnienia trzeba wskazać, iż platformy skin gamblingowe są
+bytem całkowicie niezależnym od wydawców gier komputerowych, z któ-
+rych pochodzą wirtualne dobra będące przedmiotem zakładów. Jednak-
+że oczywistym jest fakt, iż bez cichego przyzwolenia wydawców gier, któ-
+rym zależy na zwiększeniu atrakcyjności swoich produktów, organizacja
+tego typu działalności byłaby niemożliwa z uwagi na ochronę praw autor-
+skich do wirtualnych przedmiotów, które są elementem programu kompu-
+terowego jakim jest gra komputerowa. Istotny jest również fakt, że dzia-
+łalność skin gamblingowa prowadzona jest z pominięciem wszelkich re-
+gulacji związanych z organizacją gier hazardowych, a także umożliwia
+w nich udział osobom poniżej 18 roku życia, które stanowią dużą część
+odbiorców medium jakim są gry komputerowe, oraz są grupą szczególnie
+podatną na zagrożenia związane z uzależnieniem od hazardu.
+Środowisko czerpiące zyski z organizacji oraz promowania skin gam-
+blingu często podnosi argument, iż prowadzenie działalności tego typu
+nie może być uznane za hazard, gdyż przedmiotem zakładów nie są
+przedmioty cechujące się rzeczywistą wartością. Argument ten należy
+uznać za całkowicie nietrafny i mający na celu wyłącznie ochronę wła-
+snych interesów, gdyż większość wirtualnego mienia mogącego stanowić
+zasilenie profilu użytkownika platformy skin gamblingowej może być naby-
+te bezpośrednio za prawdziwe pieniądze, lub w wyniku otwarcia płatnego
+loot boxa, a także można je spieniężyć za pośrednictwem zorganizowa-
+nych platform obrotu wirtualnym mieniem. Przytoczonemu argumentowi
+przeczy już sam fakt, iż platformy oferujące usługę skin gamblingu auto-
+Czy w grze komputerowej można stworzyć nielegalne kasyno?...
+matycznie dokonują wyceny oraz konwersji wniesionych do konta użyt-
+kownika wirtualnych dóbr na ich równowartość w prawdziwej walucie, co
+dokonywane jest w oparciu o dane pobierane z prowadzonych przez
+twórców gry serwisów zorganizowanego obrotu wirtualnym mieniem.
+Drugim mechanizmem, który z uwagi na omawianą problematykę warto
+przedstawić jest oddolne organizowanie gier hazardowych przez indywi-
+dualnych użytkowników konkretnej gry komputerowej, przy użyciu istnieją-
+cych w grze funkcjonalności, zarówno tych które zostały stworzone przez
+twórców właśnie do tego celu, jak i takich, które pierwotnie miały mieć zu-
+pełnie inne zastosowanie. Zasady funkcjonowania wskazanego mechani-
+zmu opiszę na przykładzie organizowanych przez użytkowników gry „Ti-
+bia” tzw. gier na kostkę (ang. dice games)13.

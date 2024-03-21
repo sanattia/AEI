@@ -1,0 +1,35 @@
+
+Mikrotransakcje w grach komputerowych
+
+Virtual property, czyli tzw. własność wirtualna, nie jest własnością w rozumieniu polskiego prawa. W potocznym rozumieniu i w odczuciu graczy przedmioty wirtualne stanowią ich własność. Użytkownicy zawierają transakcje odnośnie do takich przedmiotów, jak artefakty, awatary, i sprzedają je za pośrednictwem realnej waluty lub udostępniają („pożyczają”) innym osobom. Tymczasem, przedmioty te nie mogą zostać uznane za przedmiot własności, ponieważ nie są rzeczami w rozumieniu polskiego prawa. Na gruncie prawa cywilnego, za rzecz można uznać wyłącznie przedmioty materialne (art. 45 kodeksu cywilnego).
+
+Czytaj więcej
+Konsumenci
+Zakupy online a prawa konsumenta - rękojmia, gwarancja, odstąpienie od umowy
+
+Konsumenci dokonujący zakupów online mają różne możliwości postępowania, w przypadku gdy zakup z jakiegoś powodu im nie odpowiada.
+
+Na świecie wykształciło się wiele koncepcji odnośnie do statusu prawnego virtual property. Za najdalej idącą należy uznać stosowanie w drodze analogii przepisów dotyczących własności rzeczy materialnych. W Polsce nie ma raczej podstaw do przyjmowania takiej koncepcji, a jako podstawę ochrony virtual property wskazuje się najczęściej na ochronę prawnoautorską. Wszelkie artefakty, awatary itp. miałyby stanowić utwory w rozumieniu prawa autorskiego. Jednak nie zawsze jest to właściwe, ponieważ nie każdy artefakt będzie spełniał przesłanki do uznania go za utwór. Można jednak wskazać, że jeżeli nie będziemy mieć do czynienia z utworem, to w grę może wchodzić tzw. Access to code, czyli udzielenie dostępu do danych programu komputerowego. Każdy artefakt czy awatar będzie wówczas uznany jedynie za wizualizację kodu programu. Dostęp do takich danych będzie miał jednak charakter faktyczny, wobec czego dany element gry, niestanowiący utworu, nie będzie korzystał z ochrony prawnoautorskiej.
+
+Transakcje, na podstawie których nabywa się virtual property, kwalifikowane są w przeróżny sposób.
+
+Wszystkie wskazane umowy mają swoje mankamenty i nie są rozwiązaniem idealnym. Nie każda z tych umów może również znaleźć zastosowanie w każdej sytuacji. Wszystko zależy od kwalifikacji danego przedmiotu (np. czy stanowi on utwór), a także od stron umowy. Jednak odnośnie doumowy o dostarczenie treści cyfrowych, to na chwilę obecną nie ma wyraźnej podstawy prawnej, która umożliwiałaby jej zastosowanie.
+Reklama
+Reklama
+
+W przypadku tradycyjnych (niemobilnych) gier wideo, w praktyce obrót przedmiotami wirtualnymi w grach najczęściej odbywa się w ramach platform online będących dystrybutorami gier. Przykładowo, platforma Steam, zarządzana przez Valve Corp., umożliwia swoim użytkownikom obrót tzw. subskrypcjami poprzez wewnętrzną funkcjonalność, tzw. marketplace czyli platformę, na której mogą wirtualnie „spotkać się” potencjalni sprzedawcy i kupujący. Subskrypcjami są w tym przypadku udzielane użytkownikom (przez sprzedawców gier w ramach platformy) licencje lub sublicencje, obejmujące między innymi wirtualne przedmioty. Obrót nimi jest przy tym możliwy wyłącznie w ramach marketplace'u i na zasadach wynikających z regulaminu, a żadne transakcje poza platformą nie są akceptowane.
+
+Jest to zabezpieczone w ten sposób, że przeniesienie licencji następuje pomiędzy kontami użytkowników, a więc transakcja poza platformą nie przyniosłaby oczekiwanego skutku. Dodatkowo platforma działa jako pośrednik zabezpieczający bezpieczeństwo transakcji, a cena sprzedaży jest regulowana z wirtualnego portfela, tj. wirtualnego konta w ramach platformy, który użytkownik musi uprzednio zasilić środkami.
+Sprzedaż wirtualnego dobra za gotówkę
+
+W większości przypadków sprzedaż wirtualnych przedmiotów w sposób łamiący licencję będzie bardzo utrudniony z przyczyn praktycznych w związku z tym, że obrót wirtualnymi dobrami będzie możliwy jedynie w ramach konkretnej platformy lub gry, przy użyciu wewnętrznych funkcjonalności. Wydaje się, że najczęstszym przypadkiem złamania licencji mogłaby być pozorowana transakcja za zaniżoną cenę, aby uniknąć prowizji platformy pośredniczącej i uregulowanie właściwej płatności poza platformą.
+
+Konsekwencją takiego złamania licencji lub regulaminu platformy będzie najczęściej – w przypadku wykrycia – usunięcie konta użytkownika. Wydaje się również, że skutkiem mogłaby być odpowiedzialność odszkodowawcza, aczkolwiek do tej pory platformy nie decydowały się na podejmowanie działań prawnych. Być może ze względu na fakt, że wartość jednostkowych transakcji (a w konsekwencji prowizji platformy) najczęściej jest niska.
+Lootboxy a regulacje prawne
+
+Tzw. lootboxy (dosłownie: skrzynki z łupami) to dostępne w niektórych w grach wideo przedmioty niespodzianki, których zawartość kupujący poznaje dopiero po ich nabyciu. Jest to w gruncie rzeczy przeniesiony do świata wirtualnego model tradycyjnych kart kolekcjonerskich, który możemy pamiętać z dzieciństwa. Rozwinięciem tradycyjnego modelu jest jednak to, że w ramach „lootboxów” oferowane są przedmioty, które mogą być następnie wykorzystane w konkretnej grze. Użytkownik decydujący się na transakcję najczęściej ma świadomość tylko o potencjalnej zawartości lootboxa (np. wyposażenie czy umiejętności postaci, możliwość zmiany wyglądu itp.). Szacuje się, że gracz chcący nabyć konkretny przedmiot wirtualny musi dokonać nawet do kilkuset transakcji, aby go zdobyć. Zwłaszcza na rynku darmowych gier mobilnych i przeglądarkowych przychody z mikropłatności za „lootboxy” stanowią istotną część przychodów z gry.
+Reklama
+
+Właściwie od samego początku „lootboxy” budziły wątpliwości etyczne, głównie ze względu na to, że istotna część z nich kierowana jest do odbiorców nieletnich, a organy państwowe w wielu krajach przyglądały się im pod kątem regulacji hazardowych.
+
+Już w 2018 r. instytucje zajmujące się regulacjami sektora gier hazardowych z różnych krajów (w tym przedstawiciele polskiego Ministerstwa Finansów) przyjęli deklarację wrażającą zaniepokojenie w związku z zacieraniem się różnic między hazardem i grami. Deklaracja ta, pomimo opracowań studyjnych wykonanych przez instytucje niektórych krajów, w większości nie doprowadziła do przełomowych rozwiązań. Polskie Ministerstwo Finansów do dziś nie podjęło żadnych działań regulacyjnych, uznając, że na gruncie obowiązujących przepisów nie ma podstaw do uznania sprzedaży „lootboxów” za urządzanie gier hazardowych. Na podobnym stanowisku stoi też brytyjska komisja hazardowa, pomimo rekomendacji komisji ds. hazardu Izby Lordów wskazującej, że w niektórych grach (konkretnie wskazanych w rekomendacji) mechanizm losowości w „lootboxach” spełnia przesłankę uznania ich za grę hazardową. 

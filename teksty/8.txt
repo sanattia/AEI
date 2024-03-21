@@ -1,0 +1,57 @@
+Wraz z rozwojem alternatywnych metod monetyzacji gier komputero-
+wych, polegających na stopniowym ograniczaniu zysków z opłat licencyj-
+nych (ceny egzemplarza gry), na rzecz wprowadzania rozbudowanych,
+wewnętrznych systemów mikropłatności, coraz więcej uwagi zarówno
+społeczności graczy, jak i instytucji publicznych zaczęła przyciągać nowa
+metoda implementowania mikropłatności nazywana loot boxami2. Wska-
+zana wyżej metoda zaczęła budzić znaczne wątpliwości natury etycznej
+oraz prawnej, gdyż w swoich założeniach opiera się na mechanizmach
+powszechnie stosowanych w grach hazardowych.
+Mechanika „loot boxów” polega na tym, że gracze w zamian za praw-
+dziwe pieniądze (lub ich ekwiwalent w postaci wirtualnej waluty premium)
+mogą za pośrednictwem gry komputerowej nabyć swoisty los, zazwyczaj
+przybierający graficzną formę skrzynki z wyposażeniem, której otwarcie
+skutkuje uruchomieniem mechanizmu generującego losową zawartość,
+która to zawartość następnie może być wykorzystywana w ramach gry.
+Nagrodami mogą być tzw. „skiny” do wirtualnego wyposażenia lub posta-
+ci, które uatrakcyjniają wizualne doznania gracza i mają jedynie charak-
+ter kosmetyczny, ale mogą to być również przedmioty usprawniające wy-
+posażenie lub postać gracza, a co za tym idzie realnie wpływające na
+osiągnięcia w grze oraz status danego gracza w stosunku do innych
+użytkowników. Nagrodę może stanowić także wirtualna waluta premium,
+która w innym wypadku musiałaby być zakupiona w zamian za prawdzi-
+we pieniądze. Warto nadmienić, że niektóre wirtualne dobra mogące być
+przedmiotem gier hazardowych potrafią osiągać na rynku wtórnym wyso-
+kie ceny, sięgające nawet kilkudziesięciu tysięcy USD3.
+Czy w grze komputerowej można stworzyć nielegalne kasyno?...
+Zasadniczym czynnikiem, który upodabnia wskazane elementy gry
+komputerowej do gier hazardowych jest ich losowość oraz znaczne zróż-
+nicowanie wartości przedmiotów, które mogą zostać przydzielone gra-
+czowi w wyniku losowania ze skrzynki. Mogą być to zarówno przedmioty
+powszechnie dostępne, a co za tym idzie mało wartościowe, jak i również
+przedmioty unikatowe i cechujące się bardzo wysoką rzeczywistą warto-
+ścią. Różnice w cenach losowanych nagród mogą wahać się od kilku zło-
+tych to kilkudziesięciu tysięcy złotych. Oczywistym następstwem takiego
+stanu rzeczy jest to, że producenci gier komputerowych konstruują algo-
+rytmy losowania w taki sposób, aby prawdopodobieństwo wylosowania
+przedmiotów wartościowych było stosunkowo niskie, tak aby gracze mu-
+sieli poświęcić jak najwięcej środków w celu uzyskania pożądanego
+przedmiotu. Często stosowany jest również zabieg polegający na two-
+rzeniu kilku kategorii skrzynek, które różnicują szanse na zdobycie
+przedmiotów określonego rodzaju, lub zwiększają prawdopodobieństwo
+wylosowania przedmiotów unikatowych. Oczywiście wraz ze wzrostem
+prawdopodobieństwa uzyskania pożądanego efektu wzrasta także cena
+danego rodzaju skrzynki. Najbardziej wątpliwe z etycznego punktu wi-
+dzenia jest natomiast stosowanie praktyk, w których algorytmy dobierają-
+ce graczy w zespoły działają w ten sposób, że gracze niekorzystający
+z dodatkowo płatnych zawartości grają w zespole przeciwko graczom,
+którzy się na to zdecydowali, w wyniku czego zawsze znajdują się w gor-
+szej pozycji wyjściowej, co skutkuje powstaniem przeświadczenia, iż do
+wygrania gry zainwestowanie dodatkowych środków jest niezbędne4.
+Problematyka ukrytego hazardu w grach komputerowych nie sprowa-
+dza się jedynie do zagadnień związanych mikropłatnościami implemen-
+towanymi do gry przez jej twórców, tak jak ma to miejsce w przypadku
+loot boxów. Należy tutaj również wskazać zjawiska oddolne wychodzące
+od społeczności graczy, takie jak skin gambling oraz tworzenie przez in-
+dywidualnych graczy wirtualnych kasyn, wykorzystujących istniejące
+w grze funkcjonalności w sposób odmienny niż przewidzieli to twórcy.

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+{% include 'header.html' %}
+
+
+    <body>
+        <h1>Wyniki:</h1>
+        <table>
+            {% for result in results %}
+                <tr>
+                    {% if result[2] >= 0.75 %}
+                        <td class="matches">{{ result[2] }}</td>
+                    {% elif result[2] >= 0.5 %}
+                        <td class="halfmatch">{{ result[2] }}</td>
+                    {% else %}
+                        <td class="nomatch">{{ result[2] }}</td>
+                    {% endif %}</td>
+                        <td>
+                            {% for key, values in result[1].items() %}
+                            <li><span class="{{key}}">{{ key }}:</span> {{ values|join(', ') }}</li>
+                            {% endfor %}
+                        </td>
+                        <td>{{ result[0] | safe }}
+                        </td>
+                </tr>
+            {% endfor %}
+        </table>
+    </body>
+</body>
+		</html>

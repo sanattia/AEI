@@ -1,0 +1,38 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+
+        {% include 'header.html' %}
+
+<h1>Zasady</h1>
+
+<table class="table_main">
+
+    {% for rule in rules.items()|sort(attribute='1', reverse=True) %}
+        <tr>
+            <td>{{ rule[0] }}</td>
+            <td>{{ rule[1]|join(', ') }}</td>
+        </tr>
+    {% endfor %}
+</table>
+
+<h1>Najczęściej występujące słowa</h1>
+
+<table class="table_main">
+        <th> Słowo </th>
+    <th> Ilość wystapień</th>
+        {% set lines = textsFreq.splitlines() %}
+        {% for line in lines[:100] %}
+            {% if line %}
+                {% set parts = line.split() %}
+                <tr>
+                    <td>{{ parts[1] }}</td>
+                    <td>{{ parts[2] }}</td>
+                </tr>
+            {% endif %}
+        {% endfor %}
+</table>

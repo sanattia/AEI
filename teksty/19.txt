@@ -1,0 +1,114 @@
+Mikrotransakcje definiuje się jako niewielkie opłaty dokonywane w zamian
+za dodatkową zawartość do gry (Macmillan Dictionary, Microtransaction).
+Przedmiotem transakcji mogą być wszelkiego rodzaju cyfrowe dobra, które
+rozszerzają podstawową grę o dodatkowe elementy. W zależności od decyzji
+producenta mogą to być m.in. nowi bohaterowie, wyposażenie, zadania, mapy
+czy dodatkowa zawartość fabularna (Ivanov, Wittenzellner, Wardaszko, 2019).
+Mikrotransakcje to również model biznesowy stosowany najczęściej w tzw. grach
+free-to-play. Dostęp do gry jest całkowicie darmowy i nie wymaga zakupienia
+kopii ani wykupienia subskrypcji, a główne źródło dochodów producentów sta-
+nowią mikrotransakcje (Schwiddessen, Karius, 2018).
+Touro University Worldwide (TUW) podzielił mikrotransakcje, które stoso-
+wane są w grach wideo, na cztery przykładowe kategorie ze względu na przed-
+miot transakcji: waluta premium, skrzynki z losową zawartością, przedmioty
+premium i przedmioty limitowane (Duverge, 2016).
+Walutą premium (ang. premium currency) określany jest typ pieniądza we-
+wnątrz gry, wykorzystywany do zakupu różnego rodzaju cyfrowych dodatków
+i usprawnień w grze. W przypadku większości gier jedynym sposobem na jego
+zdobycie jest zakup za realne pieniądze paczki zawierającej określoną ilość da-
+nej waluty (Duverge, 2016). Przykładem takiej waluty są kredyty Helixa w serii
+Assassin’s Creed, złoto w Candy Crush Saga, platyna w Warframe.
+Skrzynki z losową zawartością, potocznie nazywane loot boxami (ang. skrzyn-
+ka z łupem), to specjalny rodzaj kontenera, którego zawartość generowana jest
+losowo przez program. Szansa wylosowania poszczególnych przedmiotów uza-
+leżniona jest od ich statystyk i przydatności – im słabszy przedmiot, tym więk-
+sze szanse jego wylosowania i vice versa. Prawdopodobieństwo wylosowania nie-
+których, najbardziej unikalnych przedmiotów, które gracz może zdobyć w grze,
+wynosi 0,0001% (Ice Burners). Same skrzynki gracz otrzymuje zwykle w ramach
+nagrody za wykonane zadanie lub udział w specjalnym wydarzeniu wewnątrz
+161Mikrotransakcje w grach komputerowych...
+świata gry. Otwarcie jej wymaga jednak wykupienia klucza za realne pieniądze
+lub za walutę premium (Duverge, 2016).
+Gry free-to-play zawierają zwykle dwa rodzaje dodatkowych przedmiotów. Ich
+podstawową wersję użytkownik może zdobyć, wykonując zadania lub wytwarza-
+jąc je w toku minigry zwanej craftingiem. Drugi typ przedmiotów to przedmioty
+płatne, które można kupić wyłącznie za rzeczywiste pieniądze. Często są one lep-
+szej jakości niż ich darmowe odpowiedniki, dzięki czemu wyraźnie wpływają na
+rozgrywkę. Gracz, który płaci za przedmioty premium, ma znaczącą przewagę
+nad tym niepłacącym, co potocznie nazywane jest systemem pay-to-win, czyli
+„zapłać, aby wygrać” (Duverge, 2016).
+Ostatnią kategorię mikrotransakcji wymienionych przez TUW stanowią
+przedmioty obłożone różnego rodzaju limitami. Najczęściej są to ogranicze-
+nia w postaci liczby użyć danego elementu wyposażenia lub limity czasowe, po
+których upływie przedmiot nie jest już dostępny. Kiedy gracz osiągnie pewien
+pułap, gra wyświetla monit oferujący możliwość rozszerzenia limitu w zamian
+za niewielką kwotę wyrażoną w rzeczywistej lub fikcyjnej walucie premium gry
+(Duverge, 2016).
+Loot boxy a hazard w świetle prawa
+Według klasyfikacji DSM-V rozpoznanie patologicznego hazardu następu-
+je po stwierdzeniu występowania co najmniej cztery z dziewięciu objawów wy-
+szczególnionych przez Amerykańskie Towarzystwo Psychiatryczne. Wymienione
+zachowania muszą występować w czasie ostatniego roku. Należą do nich:
+1. podnoszenie stawek w celu osiągnięcia pożądanej ekscytacji,
+2. uczucie irytacji i niepokoju przy próbie ograniczenia hazardu,
+3. powtarzające się nieudane próby kontroli, ograniczenia lub zrezygnowa-
+nia z hazardu,
+4. częste myśli na temat hazardu, takie jak wspominanie przeszłych do-
+świadczeń lub planowanie kolejnych gier,
+5. uprawianie hazardu w chwili złego samopoczucia,
+6. powracanie do hazardu po utracie pieniędzy w celu nadrobienia strat,
+7. tuszowanie aktywności hazardowej kłamstwami,
+8. utrata lub narażenie na ryzyko utraty istotnej relacji, okazji zawodowej,
+edukacyjnej z powodu hazardu,
+9. poleganie na pomocy innych w celu rozwiązania problemów finanso-
+wych przez hazard (Colon-Rivera, 2021).
+162Klaudia Markowska
+Wieloletni badacz hazardu wśród młodzieży, Mark D. Griffiths, wyróżnia
+z kolei pięć czynników wspólnych dla aktywności hazardowych:
+1. wymiana środków zależna jest od wydarzenia z przyszłości, którego wy-
+nik nie jest znany w momencie zakładu,
+2. wynik jest w całości lub częściowo losowy,
+3. korzyści finansowe nie są czerpane w toku produktywnej pracy przez
+którąkolwiek ze stron,
+4. możliwe jest uniknięcie poniesionych strat poprzez rezygnację z uczest-
+nictwa w danej aktywności,
+5. zwycięzcy zyskują wyłącznie kosztem przegranych (Griffiths, 2019).
+Aaron Drummond i Jim Sauer proponują z kolei szósty czynnik, który powin-
+no się uwzględnić w charakterystyce Griffithsa, mianowicie możliwość konwer-
+sji, czyli spieniężenia wygranej, jej zamiany na realną walutę. Jak zauważają ba-
+dacze, często jest to kryterium determinujące, czy dana aktywność może zostać
+uznana za hazard (Drummond, Sauer, 2018).
+Na podstawie powyższych kryteriów Griffiths uważa, że loot boxy można
+uznać za aktywność hazardową: „Komisja Hazardowa Wielkiej Brytanii nie uzna-
+je loot boxów za formy hazardu, ponieważ (jak uważa) przedmioty w grze poza
+grą nie posiadają rzeczywistej wartości. Nie jest to jednak prawda, ponieważ ist-
+nieje wiele stron, które umożliwiają graczom wymianę cyfrowych przedmiotów
+z gier i walut na prawdziwe pieniądze” (Griffiths, 2019). W oświadczeniu opu-
+blikowanym w 2017 roku Komisja Hazardowa Wielkiej Brytanii (UK Gambling
+Commission) przyznaje, że jeżeli zaistnieje możliwość spieniężenia przedmio-
+tów z gry, to taką aktywność należy uznać za hazard. Loot boxy same w sobie,
+zdaniem komisji, nie mogą jednak być za niego uznane (Gambling Comission,
+2017).
+Regulacje dotyczące skrzynek obecne są w Japonii, która w 2012 roku całko-
+wicie zakazała gier kompu gacha (Akimoto, 2012) (jap. コンプリートガチャ –
+complete gacha; gry działające w oparciu o mechanizm maszyny z zabawkami
+popularnej w Japonii – gacha) (Toto, 2012). Zgodnie z belgijskim i holenderskim
+prawem loot boxy zostały z kolei uznane za nielegalną aktywność hazardową,
+która jest zakazana na obszarze tych krajów (Burks, 2018).
+W Polsce gry hazardowe regulowane są w Ustawie z dnia 19 listopada 2009 r.
+o grach hazardowych, która stanowi, że: „Grami hazardowymi są gry losowe, za-
+kłady wzajemne, gry w karty, gry na automatach” (Ustawa..., 2009). W dalszej
+części ustawy gry losowe sklasyfikowane są jako: „gry, w tym urządzane przez
+sieć Internet, o wygrane pieniężne lub rzeczowe, których wynik w szczególności
+163Mikrotransakcje w grach komputerowych...
+zależy od przypadku” (Ustawa..., 2009). Do gier losowych w polskim prawie za-
+liczane są gry liczbowe, loterie pieniężne, gra telebingo, gry cylindryczne, gry
+w kości, gra bingo pieniężne i fantowe, loterie fantowe i promocyjne oraz loterie
+audiotekstowe (Ustawa..., 2009). Na tej podstawie Ministerstwo Finansów wyda-
+ło oświadczenie, w którym stwierdza, że loot boxy ze względu na swoją charak-
+terystykę nie mogą zostać zaliczone do żadnej z gier hazardowych wyszczegól-
+nionej w Ustawie z 19 listopada 2009 r. o grach hazardowych (Styczyński, 2019).
+Zdaniem Ministerstwa Finansów „sam element losowości w danym przedsię-
+wzięciu nie przesądza o hazardowym charakterze danej gry. W praktyce może
+występować wiele przedsięwzięć, które częściowo mają charakter losowy, jednak
+nie są one hazardem”

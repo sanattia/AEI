@@ -1,0 +1,149 @@
+
+
+/* BODY STYLE */
+
+html, body {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	background: rgb(73,160,157);
+	background: linear-gradient(90deg, rgba(73,160,157,1) 0%, rgba(9,98,121,1) 35%, rgba(95,44,130,1) 100%);
+	font-family: sans-serif;
+	font-weight: 100;
+	overflow-x: hidden;
+}
+
+h1{
+	margin: 0 auto;
+	width: fit-content;
+	padding:1%;
+}
+
+/* MENUS STYLE */
+.sticky {
+	position: relative;
+top: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 60px;
+
+}
+
+header span{
+	margin-right: 1%;
+}
+
+ul{
+	display: inline-block;
+padding-left: 0;
+}
+
+li {
+  display: inline-block;
+
+}
+
+a{
+	text-decoration:none;
+	color:white;
+}
+
+header{
+	width: fit-content;
+	padding: 0.7%;
+	margin: 0 auto;
+	background-color: black;
+	color:white;
+	width:100%;
+}
+
+/** TABLE STYLE **/
+
+
+
+header span{
+	display: inline-block;
+}
+
+table {
+	border-collapse: separate;
+	box-shadow: 0 0 20px rgba(0,0,0,0.1);
+	width: 80%;
+	margin: 0 auto;
+}
+
+tbody{
+	background-color: white;
+	font-size: small;
+}
+
+th{
+	padding: 15px;
+	background-color: rgba(200,70,125,0.2);
+	color: black;
+}
+
+td {
+	padding: 15px;
+	background-color: rgba(255,255,255,0.2);
+	color: black;
+}
+
+th {
+	text-align: left;
+}
+
+thead th {
+
+	background-color: #55608f;
+
+}
+
+td {
+	position: relative;
+}
+
+/** MARK COLORS **/
+
+.myClass{
+	background-color: red;
+}
+
+.Sprawca{
+ background-color: #deb6d5;
+}
+
+.Cel{
+ background-color: coral;
+}
+
+.Zdarzenie{
+background-color: aquamarine;
+}
+
+.Obiekt{
+	background-color: cornflowerblue;
+}
+
+.Narzędzie{
+	background-color: indigo;
+	color:white;
+}
+
+
+/* TOPIC */
+
+.matches{
+	background-color: darkseagreen;
+}
+
+.halfmatch{
+	background-color: darkkhaki;
+}
+
+.nomatch{
+	background-color: indianred;
+}

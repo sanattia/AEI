@@ -1,0 +1,35 @@
+.sticky {
+	position: sticky;
+	top: 0;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 60px;
+	background-color:#deb6d5;
+}
+
+ul{
+  width:100%;
+}
+
+li {
+  display: inline-block;
+  
+}
+
+a{
+	text-decoration:none;
+	color:black;
+}
+
+.temat{
+	background-color: darkseagreen;
+}
+
+.poltemat{
+	background-color: darkkhaki;
+}
+
+.nietemat{
+	background-color: indianred;
+}

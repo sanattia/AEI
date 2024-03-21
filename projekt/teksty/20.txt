@@ -1,0 +1,116 @@
+Innym sposobem, którym twórcy gier zachęcają graczy do mikrotransakcji,
+jest zmuszanie ich do tzw. grindu, czyli konieczności wielokrotnego powtarzania
+jakiegoś etapu gry lub misji w celu zdobycia odpowiedniej ilości surowców lub
+waluty premium potrzebnych do uzyskania nowego wyposażenia lub bohatera.
+Trudność i czasochłonność w zdobywaniu tych przedmiotów ma zniechęcać do
+pozyskania ich w toku gry na rzecz szybkiego rozwiązania w postaci mikropłat-
+ności (Sorens, 2007). Jednym z przykładów skrajnego grindu może być rozwią-
+zanie zastosowane w Star Wars: Battlefront 2, grze wydanej przez Electronic Arts,
+w której odblokowanie postaci Dartha Vadera i Luke’a Skywalkera przeciętne-
+mu graczowi mogło zająć 80 godzin (po 40 godzin na każdą postać) ciągłego
+powtarzania tych samych zadań (Martin, 2017). Innym przykładem narażania
+graczy na skrajny grind jest przypadek gry PlayerUnknown’s Battleground, znanej
+również jako PUBG, w której odblokowanie najrzadszego przedmiotu – kurtki
+– zajęłoby przeciętnemu graczowi około 80 lat. Można ją znaleźć jedynie w spe-
+cjalnej Skrzynce motocyklowej, a szansa jej wylosowania to 0,01%. Inny unikalny
+przedmiot – Materiałowa maska na twarz w cętki – dostępny wyłącznie w płat-
+nych skrzynkach DESPERADO wymagałby od gracza przeciętnie pięciu lat wy-
+kupowania maksymalnej liczby skrzynek każdego tygodnia1 i wydania na ten cel
+około 1562 dolarów (Orland, 2018). Należy w tym miejscu również wspomnieć,
+że PUBG oferuje możliwość zakupu konkretnych przedmiotów, bez konieczno-
+ści ich losowania, na rynku społecznościowym platformy Steam, na której gracze
+mają możliwość sprzedawać i kupować przedmioty z gry. Ich cena uzależniona
+jest od unikalności.
+W kontekście wpływu mikrotransakcji na rozgrywkę i sposobów nakłaniania
+graczy do dokonywania mikrotransakcji istotny jest również jeden z patentów
+udzielony firmie Activision, będącej producentem m.in. serii gier Call of Duty.
+W dokumencie zatytułowanym System and Method for Driving Microtransactions
+1 Maksymalna liczba skrzynek, którą mógł kupić gracz, to sześć na każdy tydzień.
+165Mikrotransakcje w grach komputerowych...
+in Multiplayer Video Games opisany został system, który miałbym sterować pro-
+cesem matchmakingu (przydzielania graczy do określonych zespołów w grze
+online) w sposób, który zachęcałby graczy do dokonywania mikrotransakcji
+(Activision Publishing Inc., 2017). Twórcy opisują tu wykorzystanie systemu do
+tworzenia zespołów, które skutkowałyby zwiększeniem częstotliwości zakupów
+w grze: „Przykładowo, silnik mikrotransakcji mógłby sparować gracza z o wiele
+większym poziomem doświadczenia z nowym graczem w celu skłonienia go do
+zakupu przedmiotu posiadanego/wykorzystywanego przez bardziej doświadczo-
+nego gracza. Młody gracz mógłby chcieć naśladować wprawnego gracza przez
+zdobycie tej samej broni lub innych przedmiotów przez niego wykorzystywa-
+nych” (Activision Publishing Inc., 2017, tłum. własne). Z przytoczonego cytatu
+wynika, że w celu skłonienia gracza do zakupu mikrotransakcji specjalnie za-
+projektowany system przydzielałby go do znacznie lepszego gracza, by wzbudzić
+w nim błędne przekonanie, że jego zły wynik w meczu jest skutkiem nieposia-
+dania odpowiedniej broni lub innego wyposażenia, a nie niewystarczającego do-
+świadczenia. Twórcy patentu opisują również możliwość wykorzystania systemu
+do promowania przedmiotów, które w danej chwili są na wyprzedaży poprzez
+manipulowanie matchmakingiem.
+Warto w tym miejscu przytoczyć wystąpienie dyrektora generalnego stu-
+dia Tribeflame, zajmującego się produkcją gier na urządzenia mobilne, Torulfa
+Jernströma, który zaprezentował techniki stosowane w grach wideo, mające skła-
+niać użytkowników do zakupu mikrotransakcji. Podczas prezentacji na Pocket
+Gamer Connects w 2016 roku w Helsinkach Jernström wymienił m.in. następu-
+jące sposoby monetyzacji darmowych gier wideo:
+1. zbudowanie w grze ekonomii, która pozwoli graczom wydać odpowied-
+nio wysoką sumę w ramach mikrotransakcji;
+2. dostosowanie oferty mikrotransakcji do czterech typów gracza według
+klasyfikacji Bartle’a: zdobywcy, odkrywcy, dusza towarzystwa, zabójcy
+(Bartle, 1996). Zdaniem Jernströma najbardziej opłacalnym adresatem
+mikrotransakcji jest zdobywca, któremu należy sprzedawać przedmioty
+usprawniające i ułatwiające rozgrywkę, ponieważ jest on najbardziej sko-
+ry do wydawania pieniędzy w celu zdobycia wszystkich osiągnięć;
+3. monetyzację etapową, czyli dostosowanie oferty do etapu, na którym
+znajduje się gracz. Na pierwszym stopniu należy złożyć nowemu graczo-
+wi atrakcyjną ofertę, która zachęci go do zakupu i spowoduje przywią-
+zanie do danej gry ze względu na zainwestowane pieniądze. Na kolej-
+nym etapie graczowi, który z gry czyni przyzwyczajenie, oferowane są
+166Klaudia Markowska
+ułatwienia pomagające przejść do kolejnego poziomu. Na ostatnim eta-
+pie znajdują się osoby, które zaczęły traktować rozgrywkę jako hobby.
+Zgodnie z założeniami modelu hobbiści zaangażowani w grę skłonni są
+wydać znaczne ilości pieniędzy na mikrotransakcje, które zaoszczędzą im
+czas na różnych czynnościach w grze;
+4. gachę, której mechanizm Jernström opisuje w następujący sposób: „nie-
+ważne, jak dużo pieniędzy wydasz, nie możesz bezpośrednio otrzymać
+karty, którą chcesz. Musisz ciągle płacić, żeby otrzymać pełno losowych
+kart, i mieć nadzieję, że to, czego chcesz, jest pośród nich” (tłum. własne;
+Jernström, 2016);
+5. wywieranie presji na graczu poprzez zastosowanie limitu czasu na doko-
+nanie zakupu. Torulf Jernström proponuje stosowanie wszelkiego rodza-
+ju symboli graficznych i dźwiękowych, które mają potęgować wrażenie
+uciekającego czasu, w celu nakłonienia gracza do dokonania spontanicz-
+nego zakupu;
+6. wykorzystanie niechęci do straty poprzez stwarzanie sytuacji, które grożą
+utratą dóbr w grze, i oferowanie rozwiązania poprzez dokonanie płatno-
+ści;
+7. zastosowanie modelu subskrypcji do generowania stałego przychodu
+z mikrotransakcji;
+8. zakotwiczenie, czyli złożenie początkującemu graczowi znacznie wyższej
+oferty, co działać będzie jako punkt odniesienia względem pozostałych
+przedmiotów. Zaproponowanie drogiego przedmiotu sprawi, że niższe
+ceny za inne przedmioty postrzegane będą przez gracza w pozytywny
+sposób, co zachęci go do kupna;
+9. społeczny dowód słuszności – informowanie graczy o zakupach dokona-
+nych przez pozostałych uczestników prowadzi do postrzegania ich jako
+naturalnych dla danej gry (Jernström, 2016).
+Sposób nakłaniania graczy do dokonywania mikrotransakcji jest szczególnie
+istotny w kontekście badań przeprowadzonych przez Davida Zendle’a, Rachel
+Meyer i Harriet Over w 2019 roku. Dotyczyły one zależności między patologicz-
+nym hazardem a motywacją do zakupu loot boxów wśród grupy wiekowej 16–18
+lat. Wyniki otrzymane przez badaczy wykazały silniejszą zależność tych czyn-
+ników wśród młodzieży niż w przypadku badanej wcześniej grupy dorosłych
+(Zendle, Meyer, Over , 2019).
+Równie istotne dla debaty dotyczącej związku między hazardem a mikrotran-
+sakcjami są wyniki, które w listopadzie 2020 roku otrzymało Gambling Health
+167Mikrotransakcje w grach komputerowych...
+Alliance. W toku badań z udziałem 611 osób w wieku od 13 do 24 lat mieszkają-
+cych na terenie Anglii, Szkocji i Walii ustalono, że prawie 1/4 badanych w wieku
+11–16 lat przynajmniej raz zapłaciła za otwarcie loot boxa. 31% młodych graczy
+przyznało, że ma trudności ze śledzeniem, ile pieniędzy przeznacza na skrzynki,
+a 33% nie czuje kontroli nad wydatkami spowodowanymi tego rodzaju mikro-
+transakcjami. Prawie 1/4 graczy zadeklarowała, że czuje się uzależnieniona od
+loot boxów, z czego niemal połowa doświadczyła uczucia frustracji i złości wsku-
+tek wylosowania mało wartościowych przedmiotów (Gambling Health Alliance,
+2020). Należy w tym miejscu zaznaczyć, że ponad 1/3 ankietowanych przyznała,
+że pierwszy raz wydała pieniądze na loot boxy w wieku 13 lat lub mniej ze wzglę-
+du na brak restrykcji w tej kwestii
